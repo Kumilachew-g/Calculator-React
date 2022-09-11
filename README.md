@@ -1,4 +1,4 @@
-# Calculator
+# Calculator-React
 
 > This project is created to demonistrate how to creat react application.
 
@@ -26,7 +26,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-1. git clone https://github.com/Kumilachew-g/Calculator.git
+1. git clone https://github.com/Kumilachew-g/Calculator-React.git
 2. cd Calculator
 
 ### Install
@@ -49,7 +49,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Kumilachew-g/Calculator/issues).
+Feel free to check the [issues page](https://github.com/Kumilachew-g/Calculator-React/issues).
 
 ## Show your support
 
