@@ -13,7 +13,7 @@ In the project directory, you can run:
 
 ## Live Demo
 
-[Coming Soon!](https://kumilachew-g.github.io/Calculator/)
+[Coming Soon!](https://kumilachew-g.github.io/Calculator-React/)
 
 ## Getting Started
 
